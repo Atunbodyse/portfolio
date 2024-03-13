@@ -3,16 +3,16 @@
 ### Relevant Coursework: 
  Data Structures, Algorithms, Operating Systems, Database Management, Software Engineering, Artificial Intelligence, Computer Networks.
 
-## Skills:
+## Skills
   - Programming Languages : java,python,C++,JavaScript.
   
   - Web development : HTML, CSS, React, Node.js, Express.
   
   - Databases: MySQL,MongoDB.
   
-  - Version Control : Gilt,SVN.
+  - Version Control : Git,SVN.
   
-  - IDEs : Visual studio code ,Eclipse,PyCharm.
+  - IDEs : Visual studio code,PyCharm.
   
   - Operating Systems : Windows, Linux, macOS.
   
