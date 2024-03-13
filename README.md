@@ -3,7 +3,7 @@
 ### Relevant Coursework: 
  Data Structures, Algorithms, Operating Systems, Database Management, Software Engineering, Artificial Intelligence, Computer Networks.
 
- ## Skills:
+## Skills:
   - Programming Languages : java,python,C++,JavaScript.
   
   - Web development : HTML, CSS, React, Node.js, Express.
