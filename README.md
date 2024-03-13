@@ -8,19 +8,19 @@
   
   - Web development : HTML, CSS, React, Node.js, Express.
   
-  Databases: MySQL,MongoDB.
+  - Databases: MySQL,MongoDB.
   
-  Version Control : Gilt,SVN.
+  - Version Control : Gilt,SVN.
   
-  IDEs : Visual studio code ,Eclipse,PyCharm.
+  - IDEs : Visual studio code ,Eclipse,PyCharm.
   
-  Operating Systems : Windows, Linux, macOS.
+  - Operating Systems : Windows, Linux, macOS.
   
-  Data Structures & Algorithm: proficient in Sorting algorithms,Search algorithms, and data structures.
+  - Data Structures & Algorithm: proficient in Sorting algorithms,Search algorithms, and data structures.
   
-  Problem Solving: strong analytical and problem solving skills.
+  - Problem Solving: strong analytical and problem solving skills.
   
-  Teamworks: Effective collaboration on cross-Functional teams and projects.
+  - Teamworks: Effective collaboration on cross-Functional teams and projects.
 
 
 ## Educaton
