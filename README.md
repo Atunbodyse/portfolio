@@ -27,11 +27,11 @@ Software Engineering Intern at Five Box(2021 - 2023).
 - Developed efficient micro services  for 3 web applications.
 
 ### Projects
-- E-commerce Website.
-Developed a full-stack e-commerce website using React, Node.js, and MongoDB.
+E-commerce Website.
+- Developed a full-stack e-commerce website using React, Node.js, and MongoDB.
 Implemented user authentication, product listings, shopping cart, and payment processing.
 Deployed the application on AWS to ensure scalability and performance.
 
-- Food Delivery Web.
-Developed a full-stack food delivery web app using Python and Django.
+Food Delivery Web.
+- Developed a full-stack food delivery web app using Python and Django.
 
