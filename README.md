@@ -10,11 +10,16 @@
   
   Databases: MySQL,MongoDB.
   
-  Version Control : Gilt,SVN
-  IDEs:Visual studio code ,Eclipse,PyCharm
-  Operating Systems : Windows, Linux, macOS
+  Version Control : Gilt,SVN.
+  
+  IDEs:Visual studio code ,Eclipse,PyCharm.
+  
+  Operating Systems : Windows, Linux, macOS.
+  
   Data Structures & Algorithm: proficient in Sorting algorithms,Search algorithms, and data structures.
+  
   Problem Solving: strong analytical and problem solving skills.
+  
   Teamworks: Effective collaboration on cross-Functional teams and projects.
 
 
