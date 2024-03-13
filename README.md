@@ -20,8 +20,8 @@ Software Developer at SOLTECH Inc(2018 – 2020).
 - Conducted code reviews to ensure code quality and adherence to coding standards.
 
 Software Engineering Intern at Five Box(2021 - 2023).
-      Assisted in the development and testing of  Software Products.
-Worked on debugging and fixing software defects, leading to an 80% improvement in software reliability.
+ - Assisted in the development and testing of  Software Products.
+ - Worked on debugging and fixing software defects, leading to an 80% improvement in software reliability.
 - Manage 5 web design project from start to finish using HTML5, JavaScript and  CSSS3 with 100% client satisfaction.
 - Trained 6 people how to build responsive website and web functions.
 - Developed efficient micro services  for 3 web applications.
