@@ -66,7 +66,7 @@ Food Delivery Web.
 
 [twitter]: https://twitter.com/yemi_atunrase
 [instagram]: https://www.instagram.com/yemi_atunrase/
-[linkedin]: https://linkedin.com/in/segunatunrase
+[linkedin]: https://www.linkedin.com/in/segun-atunrase-431260182
 
 
 
