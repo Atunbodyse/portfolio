@@ -4,9 +4,12 @@
  Data Structures, Algorithms, Operating Systems, Database Management, Software Engineering, Artificial Intelligence, Computer Networks.
 
  ### skills:
-  Programming Languages : java,python,C++,JavaScript
-  Web development : HTML, CSS, React, Node.js, Express
-  Databases: MySQL,MongoDB
+  Programming Languages : java,python,C++,JavaScript.
+  
+  Web development : HTML, CSS, React, Node.js, Express.
+  
+  Databases: MySQL,MongoDB.
+  
   Version Control : Gilt,SVN
   IDEs:Visual studio code ,Eclipse,PyCharm
   Operating Systems : Windows, Linux, macOS
