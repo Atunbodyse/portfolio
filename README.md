@@ -50,6 +50,7 @@ Software Engineering Intern at Five Box(2021 - 2023).
 - Developed efficient micro services  for 3 web applications.
 
 Python Devloper at Upwork(March - till date)
+
 E-commerce Website.
 - Developed a full-stack e-commerce website using React, Node.js, and MongoDB.
 Implemented user authentication, product listings, shopping cart, and payment processing.
