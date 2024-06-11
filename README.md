@@ -49,14 +49,14 @@ Software Engineering Intern at Five Box(2021 - 2023).
 - Trained 6 people how to build responsive website and web functions.
 - Developed efficient micro services  for 3 web applications.
 
-### Projects
+Python Devloper at Upwork(March - till date)
 E-commerce Website.
 - Developed a full-stack e-commerce website using React, Node.js, and MongoDB.
 Implemented user authentication, product listings, shopping cart, and payment processing.
 Deployed the application on AWS to ensure scalability and performance.
 
 Food Delivery Web.
-- Developed a full-stack food delivery web app using Python and Django.
+- Developed a full-stack food delivery web app using Python3,Django, mdbootstrap CND and Bootstrap navbar. This application has a customer side where orders can be placed and a restaurant side where those orders can be fulfilled and completed. 
 
 <h2> 🤳 Connect with me:</h2>
 
